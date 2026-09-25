@@ -12,3 +12,4 @@ C:\Users\NaftalyBoroMwaura\OneDrive - THH LLC\Desktop\coding\Dotnet\HelloWorldAp
 C:\Users\NaftalyBoroMwaura\OneDrive - THH LLC\Desktop\coding\Dotnet\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.pdb
 C:\Users\NaftalyBoroMwaura\OneDrive - THH LLC\Desktop\coding\Dotnet\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.genruntimeconfig.cache
 C:\Users\NaftalyBoroMwaura\OneDrive - THH LLC\Desktop\coding\Dotnet\HelloWorldApp\obj\Debug\net8.0\ref\HelloWorldApp.dll
+C:\Users\NaftalyBoroMwaura\OneDrive - THH LLC\Desktop\coding\Dotnet\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.sourcelink.json
