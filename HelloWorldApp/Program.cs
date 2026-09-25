@@ -102,4 +102,27 @@ foreach (decimal amount in orderAmounts)
         Console.WriteLine("Countries:");
 
                // Objects and Classes in C# programming language
-               
+        public class User
+        {
+            public int Id { get; set; }
+            public string Username { get; set; }        
+            public string Email { get; set; }
+            public bool IsActive { get; set; }
+
+            //Constructor: Executes when creating a new instance of the class
+            public User(int id, string username, string email, bool isActive)
+            {
+                Id = id;
+                Username = username;
+                Email = email;
+                IsActive = true;
+            }
+
+            //methods: Define the behavior of the class
+            public void Deactivate()
+            {
+                IsActive = false;
+                Console.WriteLine($"User {Username} has been deactivated.");
+            }
+        }
+    
