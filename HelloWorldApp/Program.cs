@@ -46,14 +46,14 @@ if (isAccountActive)
 }
 // loops
 
-        for (int i = 0; i < 5; i++)
-        {
-            Console.WriteLine($"Iteration index: {i}");
-        }
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine($"Iteration index: {i}");
+}
 
-        //Complete practical example
+//Complete practical example
 
-        decimal[] orderAmounts = { 45.00m, 120.50m, 0.00m, 850.00m, -5.00m, 2100.00m };
+decimal[] orderAmounts = { 45.00m, 120.50m, 0.00m, 850.00m, -5.00m, 2100.00m };
 
 Console.WriteLine("--- ORDER AUDIT REPORT ---");
 
@@ -69,10 +69,10 @@ foreach (decimal amount in orderAmounts)
     // 2. Pattern matching switch expression
     string shippingTier = amount switch
     {
-        < 50.00m                  => "Standard Shipping ($5.00)",
-        >= 50.00m and < 200.00m   => "Free Ground Shipping",
+        < 50.00m => "Standard Shipping ($5.00)",
+        >= 50.00m and < 200.00m => "Free Ground Shipping",
         >= 200.00m and < 1000.00m => "Priority Express Shipping",
-        _                         => "VIP White-Glove Courier"
+        _ => "VIP White-Glove Courier"
     };
 
     // 3. Discount calculation with ternary operator
@@ -81,3 +81,25 @@ foreach (decimal amount in orderAmounts)
 
     Console.WriteLine($"Order: ${amount:F2} | Discount: -${discount1:F2} | Final: ${finalPayable:F2} | Tier: {shippingTier}");
 }
+        //Arrays in C# programming language
+
+        int [] scores = new int[5];
+        scores[0] = 85;
+        scores[1] = 92;
+        scores[2] = 78;
+        scores[3] = 90;
+        scores[4] = 88;
+        Console.WriteLine("Scores:");
+        foreach (int score in scores)
+        {
+            Console.WriteLine(score);
+        }
+
+        string[] fruits = { "Apple", "Banana", "Cherry", "Date", "Elderberry" };
+        Console.WriteLine("Fruits:");
+
+        string [] countries = ["USA", "Canada", "Germany", "France", "Japan"];
+        Console.WriteLine("Countries:");
+
+               // Objects and Classes in C# programming language
+               
