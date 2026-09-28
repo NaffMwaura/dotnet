@@ -101,28 +101,60 @@ foreach (decimal amount in orderAmounts)
         string [] countries = ["USA", "Canada", "Germany", "France", "Japan"];
         Console.WriteLine("Countries:");
 
-               // Objects and Classes in C# programming language
-        public class User
-        {
-            public int Id { get; set; }
-            public string Username { get; set; }        
-            public string Email { get; set; }
-            public bool IsActive { get; set; }
+    //create a collection of order items
+    List<OrderItem> cart =
+    [
+        new OrderItem("Laptop", 1, 999.99m),
+        new OrderItem("Mouse", 2, 25.50m),
+        new OrderItem("Keyboard", 1, 49.99m)
+    ];
 
-            //Constructor: Executes when creating a new instance of the class
-            public User(int id, string username, string email, bool isActive)
-            {
-                Id = id;
-                Username = username;
-                Email = email;
-                IsActive = true;
-            }
+    decimal grandTotals = 0.0m;
 
-            //methods: Define the behavior of the class
-            public void Deactivate()
-            {
-                IsActive = false;
-                Console.WriteLine($"User {Username} has been deactivated.");
-            }
-        }
-    
+    Console.WriteLine("--- SHOPPING CART ---");
+    foreach (var item in cart)
+    {
+        decimal itemTotal = item.GetTotalPrice();
+        grandTotals += itemTotal;
+        Console.WriteLine($"{item.Name} - Quantity: {item.Quantity}, Unit Price: ${item.UnitPrice:F2}, Total: ${itemTotal:F2}");
+    }
+    Console.WriteLine($"Grand Total: ${grandTotals:F2}");
+
+// Objects and Classes in C# programming language
+public class User
+{
+    public int Id { get; set; }
+    public string Username { get; set; }
+    public string Email { get; set; }
+    public bool IsActive { get; set; }
+
+    public User(int id, string username, string email, bool isActive)
+    {
+        Id = id;
+        Username = username;
+        Email = email;
+        IsActive = isActive;
+    }
+
+    public void Deactivate()
+    {
+        IsActive = false;
+        Console.WriteLine($"User {Username} has been deactivated.");
+    }
+}
+
+public class OrderItem
+{
+    public string Name { get; set; }
+    public int Quantity { get; set; }
+    public decimal UnitPrice { get; set; }
+
+    public OrderItem(string name, int quantity, decimal unitPrice)
+    {
+        Name = name;
+        Quantity = quantity;
+        UnitPrice = unitPrice;
+    }
+
+    public decimal GetTotalPrice() => Quantity * UnitPrice;
+}
