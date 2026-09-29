@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\NaftalyBoroMwaura\\OneDrive - THH LLC\\Desktop\\coding\\Dotnet\\MiniApi\\MiniApi.csproj": {}
+    "C:\\Users\\NaftalyBoroMwaura\\OneDrive - THH LLC\\Desktop\\coding\\Dotnet\\MiniApi\\MiniApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\NaftalyBoroMwaura\\OneDrive - THH LLC\\Desktop\\coding\\Dotnet\\MiniApi\\MiniApi.csproj": {
+    "C:\\Users\\NaftalyBoroMwaura\\OneDrive - THH LLC\\Desktop\\coding\\Dotnet\\MiniApi\\MiniApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\NaftalyBoroMwaura\\OneDrive - THH LLC\\Desktop\\coding\\Dotnet\\MiniApi\\MiniApi.csproj",
+        "projectUniqueName": "C:\\Users\\NaftalyBoroMwaura\\OneDrive - THH LLC\\Desktop\\coding\\Dotnet\\MiniApi\\MiniApi.csproj",
         "projectName": "MiniApi",
-        "projectPath": "c:\\Users\\NaftalyBoroMwaura\\OneDrive - THH LLC\\Desktop\\coding\\Dotnet\\MiniApi\\MiniApi.csproj",
+        "projectPath": "C:\\Users\\NaftalyBoroMwaura\\OneDrive - THH LLC\\Desktop\\coding\\Dotnet\\MiniApi\\MiniApi.csproj",
         "packagesPath": "C:\\Users\\NaftalyBoroMwaura\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\NaftalyBoroMwaura\\OneDrive - THH LLC\\Desktop\\coding\\Dotnet\\MiniApi\\obj\\",
+        "outputPath": "C:\\Users\\NaftalyBoroMwaura\\OneDrive - THH LLC\\Desktop\\coding\\Dotnet\\MiniApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NaftalyBoroMwaura\\AppData\\Roaming\\NuGet\\NuGet.Config"
