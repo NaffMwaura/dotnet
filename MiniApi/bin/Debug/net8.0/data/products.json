@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "name": "Mechanical Keyboard",
+        "price": 89.99,
+        "category": "Peripherals"
+    },
+    {
+        "id": 2,
+        "name": "Ultra-Wide Monitor",
+        "price": 320.00,
+        "category": "Displays"
+    },
+    {
+        "id": 3,
+        "name": "Ergonomic Chair",
+        "price": 185.50,
+        "category": "Furniture"
+    },
+    {
+        "id": 4,
+        "name": "Wireless Mouse",
+        "price": 39.99,
+        "category": "Peripherals"
+    },
+    {
+        "id": 5,
+        "name": "Gaming Headset",
+        "price": 79.99,
+        "category": "Audio"
+    },
+    {
+        "id": 6,
+        "name": "USB-C Dock",
+        "price": 109.99,
+        "category": "Accessories"
+    },
+    {
+        "id": 7,
+        "name": "Laptop Stand",
+        "price": 34.50,
+        "category": "Accessories"
+    },
+    {
+        "id": 8,
+        "name": "4K Monitor",
+        "price": 449.99,
+        "category": "Displays"
+    },
+    {
+        "id": 9,
+        "name": "Webcam HD",
+        "price": 59.99,
+        "category": "Peripherals"
+    },
+    {
+        "id": 10,
+        "name": "Office Desk",
+        "price": 249.99,
+        "category": "Furniture"
+    },
+    {
+        "id": 11,
+        "name": "Bluetooth Speaker",
+        "price": 69.99,
+        "category": "Audio"
+    },
+    {
+        "id": 12,
+        "name": "External SSD 1TB",
+        "price": 124.99,
+        "category": "Storage"
+    },
+    {
+        "id": 13,
+        "name": "External HDD 2TB",
+        "price": 89.99,
+        "category": "Storage"
+    },
+    {
+        "id": 14,
+        "name": "Wireless Charger",
+        "price": 29.99,
+        "category": "Accessories"
+    },
+    {
+        "id": 15,
+        "name": "Smart Desk Lamp",
+        "price": 44.99,
+        "category": "Furniture"
+    },
+    {
+        "id": 16,
+        "name": "Noise-Cancelling Headphones",
+        "price": 199.99,
+        "category": "Audio"
+    },
+    {
+        "id": 17,
+        "name": "Portable Projector",
+        "price": 349.99,
+        "category": "Displays"
+    },
+    {
+        "id": 18,
+        "name": "Graphics Tablet",
+        "price": 159.99,
+        "category": "Peripherals"
+    },
+    {
+        "id": 19,
+        "name": "Smartphone Stand",
+        "price": 14.99,
+        "category": "Accessories"
+    },
+    {
+        "id": 20,
+        "name": "LED Monitor 24-inch",
+        "price": 179.99,
+        "category": "Displays"
+    },
+    {
+        "id": 21,
+        "name": "Mesh Office Chair",
+        "price": 210.00,
+        "category": "Furniture"
+    },
+    {
+        "id": 22,
+        "name": "Mechanical Numpad",
+        "price": 49.99,
+        "category": "Peripherals"
+    },
+    {
+        "id": 23,
+        "name": "USB Microphone",
+        "price": 89.99,
+        "category": "Audio"
+    },
+    {
+        "id": 24,
+        "name": "Network Switch",
+        "price": 119.99,
+        "category": "Networking"
+    },
+    {
+        "id": 25,
+        "name": "Wi-Fi Router",
+        "price": 149.99,
+        "category": "Networking"
+    },
+    {
+        "id": 26,
+        "name": "Surge Protector",
+        "price": 24.99,
+        "category": "Accessories"
+    },
+    {
+        "id": 27,
+        "name": "Standing Desk",
+        "price": 499.99,
+        "category": "Furniture"
+    },
+    {
+        "id": 28,
+        "name": "Laptop Backpack",
+        "price": 54.99,
+        "category": "Accessories"
+    },
+    {
+        "id": 29,
+        "name": "Portable Monitor",
+        "price": 219.99,
+        "category": "Displays"
+    },
+    {
+        "id": 30,
+        "name": "Streaming Camera",
+        "price": 139.99,
+        "category": "Peripherals"
+    },
+    {
+        "id": 31,
+        "name": "SSD 512GB",
+        "price": 59.99,
+        "category": "Storage"
+    },
+    {
+        "id": 32,
+        "name": "SSD 2TB",
+        "price": 189.99,
+        "category": "Storage"
+    },
+    {
+        "id": 33,
+        "name": "Ethernet Cable",
+        "price": 12.99,
+        "category": "Networking"
+    },
+    {
+        "id": 34,
+        "name": "Smart Plug",
+        "price": 21.99,
+        "category": "Accessories"
+    },
+    {
+        "id": 35,
+        "name": "Conference Speakerphone",
+        "price": 179.99,
+        "category": "Audio"
+    },
+    {
+        "id": 36,
+        "name": "Docking Station Pro",
+        "price": 199.99,
+        "category": "Accessories"
+    },
+    {
+        "id": 37,
+        "name": "Trackball Mouse",
+        "price": 69.99,
+        "category": "Peripherals"
+    },
+    {
+        "id": 38,
+        "name": "27-inch Curved Monitor",
+        "price": 299.99,
+        "category": "Displays"
+    },
+    {
+        "id": 39,
+        "name": "Bookshelf",
+        "price": 129.99,
+        "category": "Furniture"
+    },
+    {
+        "id": 40,
+        "name": "Portable SSD 4TB",
+        "price": 329.99,
+        "category": "Storage"
+    },
+    {
+        "id": 41,
+        "name": "Bluetooth Keyboard",
+        "price": 64.99,
+        "category": "Peripherals"
+    },
+    {
+        "id": 42,
+        "name": "Laptop Cooling Pad",
+        "price": 34.99,
+        "category": "Accessories"
+    },
+    {
+        "id": 43,
+        "name": "Fiber Modem",
+        "price": 109.99,
+        "category": "Networking"
+    },
+    {
+        "id": 44,
+        "name": "Sound Bar",
+        "price": 149.99,
+        "category": "Audio"
+    },
+    {
+        "id": 45,
+        "name": "Dual Monitor Arm",
+        "price": 89.99,
+        "category": "Furniture"
+    },
+    {
+        "id": 46,
+        "name": "Gaming Mouse",
+        "price": 59.99,
+        "category": "Peripherals"
+    },
+    {
+        "id": 47,
+        "name": "NAS Storage Device",
+        "price": 399.99,
+        "category": "Storage"
+    },
+    {
+        "id": 48,
+        "name": "Wireless Access Point",
+        "price": 159.99,
+        "category": "Networking"
+    },
+    {
+        "id": 49,
+        "name": "Studio Microphone",
+        "price": 229.99,
+        "category": "Audio"
+    },
+    {
+        "id": 50,
+        "name": "Executive Desk",
+        "price": 699.99,
+        "category": "Furniture"
+    }
+]

@@ -24,3 +24,4 @@ C:\Users\NaftalyBoroMwaura\OneDrive - THH LLC\Desktop\coding\Dotnet\MiniApi\obj\
 C:\Users\NaftalyBoroMwaura\OneDrive - THH LLC\Desktop\coding\Dotnet\MiniApi\obj\Debug\net8.0\MiniApi.pdb
 C:\Users\NaftalyBoroMwaura\OneDrive - THH LLC\Desktop\coding\Dotnet\MiniApi\obj\Debug\net8.0\MiniApi.genruntimeconfig.cache
 C:\Users\NaftalyBoroMwaura\OneDrive - THH LLC\Desktop\coding\Dotnet\MiniApi\obj\Debug\net8.0\ref\MiniApi.dll
+C:\Users\NaftalyBoroMwaura\OneDrive - THH LLC\Desktop\coding\Dotnet\MiniApi\bin\Debug\net8.0\data\products.json
